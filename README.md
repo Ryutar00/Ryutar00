@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ryutar00
-- 👀 I’m interested in artificial intelligence
+- 👋 Hi, I’m Ugur Burak Ozgunduz
+- 👀 I’m interested in artificial intelligence and currently a student in Politecnico di Torino, Automotive Engineering.
 - 🌱 I’m currently learning python, machine learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : ugurburak719@gmail.com
